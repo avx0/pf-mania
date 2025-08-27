@@ -1,0 +1,8 @@
+*~
+blacklist-domains
+blacklist-ip
+blacklist-mixed
+tor-only.conf
+tor-transparent.conf
+wireguard-client.conf
+README.private
